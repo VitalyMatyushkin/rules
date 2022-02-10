@@ -74,7 +74,7 @@
         "mobx-react-devtools": "^4.2.15",
         "mocha": "^5.2.0",
         "moment": "^2.22.2",
-        "node-sass": "^4.5.3",
+        "node-sass": "^7.0.0",
         "npm": "^6.4.1",
         "object-assign": "4.1.1",
         "optimize-css-assets-webpack-plugin": "5.0.1",
